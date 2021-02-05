@@ -1,4 +1,4 @@
-# postgresql-no-code-migrations
+# postgresql-pos-migrations
 Code-less Framework for doing POS (Plain-Old-SQL) PostgreSQL database schema deployments. 
 
 ## Purpose
