@@ -1,4 +1,4 @@
-# Run migration scripts in alphabetical order against a remote mysql database
+# Run migration scripts in alphabetical order against a remote postgres database
 
 # Loop through migrations (quitting if one fails)
 set -e
