@@ -20,6 +20,6 @@ In a build pipeline (using whatever CICD tools you use) with the postgresql clie
     export PSQL_USER=username
     export PSQL_PASS=password
     export PSQL_HOST=hostname
-    export PSQL_PORT=3306
+    export PSQL_PORT=5432
     ./run-migrations.sh
 
