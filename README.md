@@ -5,7 +5,7 @@ Code-less Framework for doing POS (Plain-Old-SQL) PostgreSQL database schema dep
 
 At Intelletive Consulting, we help organizations automate software builds and deployments. Unfortunately, we have discovered that it is very common for teams to be manually deploying their database schemas which makes it very difficult to fully automate their deployments. 
 
-This script is meant to make it easy to setup and implement migrations in minutes for any legacy project that uses MySQL. You can fork/copy these files into your own code repository and whatever CICD tool you use and in minutes have database migrations setup using nothing but plain-old-SQL. 
+This script is meant to make it easy to setup and implement migrations in minutes for any legacy project that uses PostgreSQL. You can fork/copy these files into your own code repository and whatever CICD tool you use and in minutes have database migrations setup using nothing but plain-old-SQL. 
 
 ## Concepts
 
